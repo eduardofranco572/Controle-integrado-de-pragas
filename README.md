@@ -5,7 +5,7 @@ Olá, Meu nome é Eduardo e esse é o projeto de um website para empresas de con
 <br>
  <div align="center">
    <h1>Link do site:</h1>
-   <p>/</p>
+   <p>https://eduardofranco572.github.io/Controle-integrado-de-pragas/</p>
   <br>
   <br>
 </div>
