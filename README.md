@@ -5,7 +5,7 @@ Olá, Meu nome é Eduardo e esse é o projeto de um website para empresas de con
 <br>
  <div align="center">
    <h1>Link do site:</h1>
-   <p>https://eduardofranco572.github.io/My-Todo-List/</p>
+   <p>/</p>
   <br>
   <br>
 </div>
