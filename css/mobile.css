@@ -1,0 +1,303 @@
+@media (max-width: 1024px){
+    form {
+        margin: 3rem 3rem 0rem 3rem;
+    }
+
+    .img-vetor {
+        display: none;
+    }
+
+    .img-da-empresa{
+        display: flex;
+        align-items: center;
+    }
+
+    .img-da-empresa img {
+        width: 26rem;
+        height: 17rem;
+        border-radius: 1rem;
+    }
+
+    .sobre{
+        max-width: 27rem;
+    }
+    
+    iframe {
+        width: 33rem;
+        height: 25rem;
+    }
+}
+
+
+@media (max-width: 768px){
+    .links ul{
+        display: none;
+    }
+    .titulo-part1 h1 {
+        text-align: center;
+    }
+    .dentro {
+        display: flex;
+        flex-direction: column;
+        margin-left: 0rem;
+    }
+    .part1 {
+        height: 23rem;
+    }
+    .part2 {
+        display: block;
+        padding: 0rem 1rem 0rem 1rem;
+    }
+
+    .titulo-part2{
+        display: flex;
+        justify-content: center;
+    }
+
+    .sobre .segundo {
+        text-align: center;
+    }
+
+    .sobre .primeiro {
+        font-size: 15px;
+        max-width: 30rem;
+        color: #767676;
+        line-height: 2em;
+        text-align: center;
+    }
+
+    .img-da-empresa{
+        display: flex;
+        justify-content: center; 
+    }
+
+    .img-da-empresa img {
+        width: 21rem;
+        height: 15rem;
+        border-radius: 1rem;
+    }
+
+    .part3 {
+        display: block;
+        align-items: center;
+        margin-top: 1rem;
+    }
+
+    .frame-mapa{
+        display: flex;
+        justify-content: center;
+    }
+    iframe {
+        height: 16rem;
+        width: 21rem;
+    }
+
+    .titulo-at{
+        display: none;
+    }
+    .alinha-ate {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+    .img-relogio img {
+        width: 16rem;
+        height: 9rem;
+        margin-top: 2rem;
+    }
+
+    .atendimento {
+        width: 100%;
+        height: 17rem;
+        background-color: #EDEDED;
+    }
+
+    .conteudo-p4 {
+        display: block;
+        align-items: center;
+    }
+
+    .alinha-part4 {
+        display: block;
+        margin-left: 0 !important;
+    }
+
+    form {
+        margin: 1rem 0 0 0 !important;
+    }
+
+    input {
+        width: 21rem;
+        padding: 10px;
+        border: none;
+        border-radius: 0.5rem;
+        border: 1px solid;
+        margin-bottom: 1rem;
+    }
+
+    textarea {
+        width: 21rem;
+        padding: 10px;
+        border: none;
+        border-radius: 0.5rem;
+        border: 1px solid;
+        margin-bottom: 1rem;
+        resize: none;
+        font-family: 'Roboto';
+    }
+
+    .part4 {
+        height: 52rem;
+    }
+    .img-vetor {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .part-form{
+        display: flex;
+        justify-content: center;
+    }
+
+    .img-vetor img {
+        width: 20rem;
+        height: 15rem;
+    }
+    footer {
+        border-top: 3px solid #045113;
+        padding: 1rem;
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .text h1, .titulo-loc h1, .titulo-loc h1, .titulo-part5 h1 {
+        display: flex;
+        justify-content: center;
+    }
+    .titulo-cont h1 {
+        color: #045113;
+        font-size: 16px;
+        font-weight: 800;
+        display: flex;
+        justify-content: center;
+    }
+
+    .cert{
+        margin-top: 1rem;
+    }
+
+    .part5 {
+        margin-top: 6rem;
+        padding: 0;
+    }
+
+    .part6 {
+        padding: 0;
+        display: flex;
+        justify-content: center;
+    }
+
+    summary {
+        list-style-type: '';
+        transition: 1s;
+        width: 19rem;
+        color: white;
+        user-select: none;
+    }
+
+    details p {
+        width: 19rem;
+        color: white;
+    }
+
+    
+}
+
+@media (max-width: 320px){
+    input {
+        width: 17rem;
+    }
+
+    textarea {
+        width: 17rem;
+       
+    }
+
+    .button-or button {
+        width: 5rem;
+        padding: 11px;
+        border-radius: 15px;
+        border: none;
+        background-color: #3eaf24;
+        color: white;
+        font-size: 16px;
+        font-weight: 500;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+    }
+
+    .button-or button h1 {
+        color: white;
+        font-size: 8px;
+        padding: 0;
+        margin: 0;
+        font-weight: 500;
+    }
+
+    .img-da-empresa img {
+        width: 17rem;
+        height: 11rem;
+        border-radius: 1rem;
+    }
+
+    iframe {
+        height: 13rem;
+        width: 17rem;
+    }
+
+    .sub-p4 p {
+        color: #efefef;
+        max-width: 31rem;
+        text-align: center;
+    }
+
+    .titulo-part5 h1 {
+        font-size: 24px;
+        color: #045113;
+        font-weight: 600;
+    }
+
+    .subTitulo-part1 p {
+        color: white;
+        max-width: 20rem;
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .titulo-part1 h1 {
+        margin: 0;
+        color: white;
+        font-size: 29px;
+        font-weight: 600;
+    }
+
+    summary {
+        list-style-type: '';
+        transition: 1s;
+        width: 15rem;
+        color: white;
+        user-select: none;
+    }
+
+    details p {
+        width: 15rem;
+        color: white;
+    }
+}
+
+
